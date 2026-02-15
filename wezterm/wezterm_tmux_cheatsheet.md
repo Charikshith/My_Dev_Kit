@@ -10,16 +10,16 @@
 |----------------------------|-----------|
 | Split pane vertically      | `-`       |
 | Split pane horizontally    | `\`       |
-| Move to left pane          | `h`       |
-| Move to down pane          | `j`       |
-| Move to up pane            | `k`       |
-| Move to right pane         | `l`       |
-| Resize pane left by 5      | `H`       |
-| Resize pane down by 5      | `J`       |
-| Resize pane up by 5        | `K`       |
-| Resize pane right by 5     | `L`       |
-| Zoom current pane (toggle) | `z`       |
-| Close current pane         | `x`       |
+| Move to left pane          | `l`       |
+| Move to down pane          | `d`       |
+| Move to up pane            | `u`       |
+| Move to right pane         | `r`       |
+| Resize pane left by 5      | `L`       |
+| Resize pane down by 5      | `D`       |
+| Resize pane up by 5        | `U`       |
+| Resize pane right by 5     | `R`       |
+| Zoom current pane (toggle) | `x`       |
+| Close current pane         | `z`       |
 
 ---
 
@@ -50,7 +50,7 @@
 | Increase font size         | `Shift+Ctrl++`    |
 | Decrease font size         | `Shift+Ctrl+-`    |
 | Reset font size            | `Shift+Ctrl+0`    |
-| Toggle fullscreen          | `Shift+Ctrl+N`    |
+| Toggle fullscreen          | `Shift+Ctrl+F`    |
 | Open debug overlay         | `Ctrl+Shift+L`    |
 
 ---
