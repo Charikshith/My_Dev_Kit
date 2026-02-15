@@ -1,0 +1,5 @@
+local wezterm = require("wezterm")
+return {
+   cursor_bg = "#ff00ff",
+   cursor_fg = "#00ff00",
+}
