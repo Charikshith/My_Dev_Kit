@@ -1,0 +1,22 @@
+{
+  "name": "my-claude-init",
+  "version": "1.0.0",
+  "description": "Claude Code plugin — scaffolds CLAUDE.md, docs/, and .claude/commands/ into any project",
+  "type": "module",
+  "bin": {
+    "claude-init": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "files/"
+  ],
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "keywords": ["claude", "claude-code", "mcp", "ai", "scaffold"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
